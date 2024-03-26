@@ -56,6 +56,3 @@ const profile = {
 }
 
 console.log(profile);
-
-// Next script file is waiting for you
-// to be continued...
