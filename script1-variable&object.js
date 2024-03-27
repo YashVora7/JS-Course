@@ -23,7 +23,7 @@
 
 // let:
 // Variable can't be re-declare but can be updated,
-// block scope
+// block scope {}
 
 // const:
 // Variable can't be re-declare or updated,

@@ -131,3 +131,5 @@ console.log("A || B ", a == b || a != b);
 console.log("!A == B ", !(a == b));
 
 // FOR LOGICAL OPERATOR && AND || OF TRUTH TABLE PRESENTED IN DRAWIO FILE
+
+// Ternary operator in next file script3
