@@ -68,4 +68,14 @@ console.log(age > 18 ? "You can vote" : "You cannot vote");
 
 // switch statement
 
+switch(expression) {
+    case x:
+      // code block
+      break;
+    case y:
+      // code block
+      break;
+    default:
+      // code block
+  }
 // This statement isn't frequently used
