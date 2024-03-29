@@ -78,4 +78,5 @@ switch(expression) {
     default:
       // code block
   }
-// This statement isn't frequently used
+// This statement isn't frequently used.
+
